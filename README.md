@@ -133,6 +133,14 @@ BatteryManagementSystem
 - Cell imbalance trends
 - Health degradation curves
 
+#### Output files gets automatically stored in logs directory that includes battery data.csv, report.txt, battery health and performance graphs
+![Screenshot 2025-03-21 230524](https://github.com/user-attachments/assets/16b06ff5-a925-4ae9-bf30-eca17c17da21)
+#### Battery Performance
+![battery_performance](https://github.com/user-attachments/assets/48856f30-2b91-489c-9f8b-4d0930539f14)
+#### Battery Health
+![battery_health](https://github.com/user-attachments/assets/93d4eb10-bc56-462f-b787-467570af58c9)
+
+
 ## Project Applications
 
 This simulation is relevant to:
@@ -141,7 +149,7 @@ This simulation is relevant to:
 - Grid-scale battery installations
 - Industrial battery backup systems
 - Consumer electronics battery optimization
-
+  
 ## Future Enhancements
 
 - Machine learning for predictive maintenance
