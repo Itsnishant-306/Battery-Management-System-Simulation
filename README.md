@@ -160,4 +160,4 @@ This simulation is relevant to:
 
 ## Conclusion
 
-This Battery Management System simulation provides a comprehensive platform for understanding and optimizing battery performance, safety, and longevity. The project demonstrates proficiency in Python programming, data analysis, process modeling, and safety-critical systems design—all directly relevant to battery manufacturing engineering roles.
+This Battery Management System simulation provides a comprehensive platform for understanding and optimizing battery performance, safety, and longevity. The project demonstrates proficiency in Python programming, data analysis, process modeling, and safety-critical systems design related to and important in battery manufacturing.
