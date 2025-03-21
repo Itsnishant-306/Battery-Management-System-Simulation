@@ -1,4 +1,4 @@
-# Battery Management System (BMS) Simulation Project
+# Battery Management System (BMS) Simulation
 
 ## Project Overview
 
